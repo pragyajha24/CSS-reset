@@ -38,7 +38,7 @@ svg {
 }
 
 html:focus-within {
-  scroll-behaviour: smooth;
+  scroll-behavior: smooth;
 }
 
 html,
